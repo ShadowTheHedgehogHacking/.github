@@ -1,6 +1,16 @@
-# Tools for Shadow the Hedgehog 2005
+# Red Westopolis - Shadow the Hedgehog Hacking / Modding
 
-### Under construction
+Tools/Mods for Shadow the Hedgehog 2005.
+
+## Game Mods
+* [Widescreen-ShadowTH](https://github.com/ShadowTheHedgehogHacking/Widescreen-ShadowTH) - A standalone widescreen mod that can be applied to the original NTSC-U and PAL versions for GameCube
+* [ShdTH-Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) - Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels
+* [2P-ShdTH](https://github.com/ShadowTheHedgehogHacking/2P-ShdTH) - A 2P multiplayer mod for the original Shadow the Hedgehog GameCube NTSC-U
+* [2P-Reloaded](https://github.com/ShadowTheHedgehogHacking/2P-Reloaded) - 2P multiplayer version of the Shadow the Hedgehog: Reloaded v1.2 Mod
+* [ShadowRando](https://github.com/ShadowTheHedgehogHacking/ShadowRando) - A randomizer for Shadow the Hedgehog (GameCube NTSC-U), allowing you to randomize stage routing, enemy placement, weapons, subtitles, audio, and more
+
+# Tools
+Note: This readme is incomplete for all the tools, but lists the most common.
 
 ## Formats
 * .ONE - [HeroesONE-Reloaded](https://github.com/Sewer56/HeroesONE-Reloaded)
@@ -17,13 +27,6 @@
 * [ShadowMTPSharp](https://github.com/Sewer56/ShadowMTPSharp) - library for importing/exporting MTP data (Animation archives)
 * [ShadowMotionSwapper](https://github.com/ShadowTheHedgehogHacking/ShadowMotionSwapper) - program to accelerate making "Custom BON" type Character Mods from swapping 
 
-## Game Mods
-* [Widescreen-ShadowTH](https://github.com/ShadowTheHedgehogHacking/Widescreen-ShadowTH) - A standalone widescreen mod that can be applied to the original NTSC-U and PAL versions for GameCube
-* [ShdTH-Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) - Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels
-* [2P-ShdTH](https://github.com/ShadowTheHedgehogHacking/2P-ShdTH) - A 2P multiplayer mod for the original Shadow the Hedgehog GameCube NTSC-U
-* [2P-Reloaded](https://github.com/ShadowTheHedgehogHacking/2P-Reloaded) - 2P multiplayer version of the Shadow the Hedgehog: Reloaded v1.2 Mod
-* [ShadowRando](https://github.com/ShadowTheHedgehogHacking/ShadowRando) - A randomizer for Shadow the Hedgehog (GameCube NTSC-U), allowing you to randomize stage routing, enemy placement, weapons, subtitles, audio, and more
-
 ## Custom Level Creation / Layout Editing
 * [Heroes Power Plant](https://github.com/igorseabra4/HeroesPowerPlant)
 
@@ -36,7 +39,8 @@
 * [VCDiffGUI](https://github.com/ShadowTheHedgehogHacking/VCDiffGUI)
 * [xdelta-wasm by kotcrab](https://github.com/ShadowTheHedgehogHacking/xdelta-wasm)
 
-## Misc
+## Misc TODO
 * Shadow Speedrun Repos
-* ShadowSX
-* Autosplitter
+* Shadow SX / Shadow: Speedrunner's Cut
+* Auto Splitter for Dolphin/GameCube
+* CodeWrite, MeleeCodeManager, newer methods of writing gecko (C/C++) etc
