@@ -7,7 +7,7 @@ Tools/Mods for Shadow the Hedgehog 2005.
 * [ShdTH-Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) - Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels
 * [2P-ShdTH](https://github.com/ShadowTheHedgehogHacking/2P-ShdTH) - A 2P multiplayer mod for the original Shadow the Hedgehog GameCube NTSC-U
 * [2P-Reloaded](https://github.com/ShadowTheHedgehogHacking/2P-Reloaded) - 2P multiplayer version of the Shadow the Hedgehog: Reloaded v1.2 Mod
-* [ShadowRando](https://github.com/ShadowTheHedgehogHacking/ShadowRando) - A randomizer for Shadow the Hedgehog (GameCube NTSC-U), allowing you to randomize stage routing, enemy placement, weapons, subtitles, audio, and more
+* [ShadowRando](https://github.com/ShadowTheHedgehogHacking/ShadowRando) - A randomizer for Shadow the Hedgehog (GameCube NTSC-U), allowing you to randomize stage routing, enemy types, weapons, subtitles, audio, and more
 
 # Tools
 Note: This readme is incomplete for all the tools, but lists the most common.
