@@ -19,7 +19,7 @@ Tools/Mods for Shadow the Hedgehog 2005.
 * .DFF - [DragonFF for Blender](https://github.com/Parik27/DragonFF) or [RWIO plugin for 3DSMax](https://github.com/aap/rwio)
 * .MTP & .BON - [ShadowMTPSharp](https://github.com/Sewer56/ShadowMTPSharp) & [Blender-3D-STH-Mtn-plugin](https://github.com/Psycrow101/Blender-3D-STH-Mtn-plugin)
 * .FNT - Subtitles and Linked Audio Triggers - [ShadowTH Text Editor / FNT Editor](https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor)
-* .AFS - Audio archive containing .ADX with all the voice lines - [ShadowTH Text Editor / FNT Editor](https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor), [SimpleAFSExtractor](https://github.com/ShadowTheHedgehogHacking/SimpleAFSExtractor, [PAFS](https://github.com/ShadowTheHedgehogHacking/PAFS)
+* .AFS - Audio archive containing .ADX with all the voice lines - [ShadowTH Text Editor / FNT Editor](https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor), [SimpleAFSExtractor](https://github.com/ShadowTheHedgehogHacking/SimpleAFSExtractor), [PAFS](https://github.com/ShadowTheHedgehogHacking/PAFS)
 * .ADX - Game Music, Event Audio, Voicelines - [VLC Media Player](https://www.videolan.org/vlc/) and [MPV](https://mpv.io/) can preview these without converting. For converting to/from consider [radx](https://github.com/Isaac-Lozano/radx) or [VGAudio](https://github.com/Thealexbarney/VGAudio)
 * stgXXXX geometry, visibility, collision / layout _cmn / layout _hrd / layout _ds1 / layout _nrm / lighting file _light - [Heroes Power Plant](https://github.com/igorseabra4/HeroesPowerPlant)
 * .BNR & .TP - GameCube save data banner - [GC-TP-BNR-Tool](https://github.com/BlazinZzetti/GC-TP-BNR-Tool)
