@@ -1,11 +1,8 @@
 # Red Westopolis - Shadow the Hedgehog Hacking / Modding
 
-> [!CAUTION]
-> We DO NOT endorse or recommend any current recompilation of Shadow the Hedgehog.
+> [!NOTE]
+> The only recompilation we recommend is [ShadowRecomp by Fox Workshop](https://github.com/FoxWorkshop/ShadowRecomp).
 >
->If you were linked here from any of the various fully LLM generated "PC Ports or Recompilation of Shadow the Hedgehog" that have been floating around, you should know we have NEVER been consulted regarding any existing community knowledge. Do not expect us to join any of those projects or maintain them after they are abandoned.
-> 
-> See Isaac's post on why a lot of these suck https://isaacmarovitz.com/posts/comps/
 
 
 Tools/Mods for Shadow the Hedgehog 2005.
