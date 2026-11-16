@@ -9,6 +9,9 @@ Tools/Mods for Shadow the Hedgehog 2005.
 
 ## Game Mods
 
+### ShadowRecomp (FoxWorkshop)
+* [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShadowRecompReloaded)
+
 ### GameCube
 * [Widescreen-ShadowTH](https://github.com/ShadowTheHedgehogHacking/Widescreen-ShadowTH) - A standalone widescreen mod that can be applied to the original NTSC-U and PAL versions for GameCube
 * [ShdTH-Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) - Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels
