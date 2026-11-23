@@ -1,7 +1,7 @@
 # Red Westopolis - Shadow the Hedgehog Hacking / Modding
 
 > [!NOTE]
-> The only recompilation we recommend is [ShadowRecomp by Fox Workshop](https://github.com/FoxWorkshop/ShadowRecomp).
+> The only recompilation we recommend is [ShadowRecomp by Fox Workshop](https://github.com/FoxWorkshop/ShadowRecomp)
 >
 
 
@@ -11,6 +11,8 @@ Tools/Mods for Shadow the Hedgehog 2005.
 
 ### ShadowRecomp (FoxWorkshop)
 * [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShadowRecompReloaded)
+* [Extended Multiplayer](https://github.com/ShadowTheHedgehogHacking/ShadowRecompExtendedMultiplayer)
+
 
 ### GameCube
 * [Widescreen-ShadowTH](https://github.com/ShadowTheHedgehogHacking/Widescreen-ShadowTH) - A standalone widescreen mod that can be applied to the original NTSC-U and PAL versions for GameCube
