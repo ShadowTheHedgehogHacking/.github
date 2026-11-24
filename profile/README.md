@@ -25,7 +25,7 @@ Tools/Mods for Shadow the Hedgehog 2005.
 
 ## Formats
 * .ONE - [ShadowONE](https://github.com/ShadowTheHedgehogHacking/ShadowONE) or [HeroesONE-Reloaded](https://github.com/Sewer56/HeroesONE-Reloaded)
-* .TXD - [MagicTXD v1.1](https://gtaforums.com/topic/851436-relopensrc-magictxd/) or [ShadowTXD](https://github.com/ShadowTheHedgehogHacking/ShadowTXD)
+* .TXD - [MagicTXD v1.1](https://gtaforums.com/topic/851436-relopensrc-magictxd/)
 * .DFF - [DragonFF for Blender](https://github.com/Parik27/DragonFF) or [RWIO plugin for 3DSMax](https://github.com/aap/rwio)
 * .MTP & .BON - [ShadowMTPSharp](https://github.com/Sewer56/ShadowMTPSharp) & [Blender-3D-STH-Mtn-plugin](https://github.com/Psycrow101/Blender-3D-STH-Mtn-plugin)
 * .FNT - Subtitles and Linked Audio Triggers - [ShadowTH Text Editor / FNT Editor](https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor)
