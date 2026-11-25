@@ -10,8 +10,11 @@ Tools/Mods for Shadow the Hedgehog 2005.
 ## Game Mods
 
 ### ShadowRecomp (FoxWorkshop)
+* [Modding Guide](https://github.com/ShadowTheHedgehogHacking/ShadowRecompDocumentation/wiki)
 * [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShadowRecompReloaded)
 * [Extended Multiplayer](https://github.com/ShadowTheHedgehogHacking/ShadowRecompExtendedMultiplayer)
+* [Model Fixes](https://github.com/ShadowTheHedgehogHacking/ShadowRecompModelFixes)
+* [UI Fixes](https://github.com/ShadowTheHedgehogHacking/ShadowRecompUIFixes)
 
 
 ### GameCube
@@ -35,7 +38,7 @@ Tools/Mods for Shadow the Hedgehog 2005.
 * .BNR & .TP - GameCube save data banner - [GC-TP-BNR-Tool](https://github.com/BlazinZzetti/GC-TP-BNR-Tool)
 * .MLT - GameCube Sound Effect Archives - Not cracked / no tools available. You can [manually replace some data with Hex Editing](https://youtu.be/DbUlOpuYJjc)
 * .PAC - Xbox Sound Effect Archives - [PACTool](https://github.com/Sewer56/PACTool)
-* .GNCP / .XNCP / .SNCP (CSD Files) - [ncp2txd - can only edit embedded TXDs in xncp and gncp](https://github.com/ShadowTheHedgehogHacking/ncp2txd) or [kunai](https://github.com/NextinMono/kunai) or [Shuriken](https://github.com/SKmaric/Shuriken) - Warning: Both of these tools can not write/save properly for Shadow the Hedgehog
+* .GNCP / .XNCP / .SNCP (CSD Files) - [ncp2txd - can only edit embedded TXDs in xncp and gncp](https://github.com/ShadowTheHedgehogHacking/ncp2txd) or [kunai](https://github.com/NextinMono/kunai) or [Shuriken](https://github.com/SKmaric/Shuriken) - Warning: kunai and Shuriken can not write/save properly for Shadow the Hedgehog, should only be used for reference.
 * Docs on format endian and other quirks regarding formats [shadow-docs](https://github.com/ShadowTheHedgehogHacking/shadow-docs)
 
 ## Models
